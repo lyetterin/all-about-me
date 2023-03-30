@@ -7,3 +7,4 @@ p{color:black;font-family:gill sans;background-color: white; border:5px solid wh
 /* Three columns side by side */
 .column {float:left;width:25%;padding:15px;}
   .column {width:100%;}
+ul {list-style-type: none;margin: 0;padding: 0;}
