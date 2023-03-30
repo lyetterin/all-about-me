@@ -4,3 +4,6 @@ h1{color:#DE2EBF;font-family:bodoni; background-color: white; border:5px solid w
 h2{color:black;font-family:gill sans;background-color: white; border:5px solid white;margin-left:600px; margin-right:600px}
 h3{color:black;font-family:gill sans; background-color: white; border:5px solid white;margin-left:600px; margin-right:600px}
 p{color:black;font-family:gill sans;background-color: white; border:5px solid white;margin-left:600px; margin-right:600px}
+/* Three columns side by side */
+.column {float:left;width:25%;padding:15px;}
+  .column {width:100%;}
