@@ -7,8 +7,8 @@ p{color:black;font-family:gill sans;background-color: white; border:5px solid wh
 /* Three columns side by side */
 .column {float:left;width:25%;padding:15px;}
   .column {width:100%;}
-ul {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #F0BF00;}
+ul {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #000;}
 li {float: left;}
-li a {display: block;color: white;text-align: center;padding: 14px 16px;text-decoration: none;}
-/* Change the link color to #00FFFF (blue) on hover */
-li a:hover {background-color: #F0BF00;}
+li a {display: block;color: black;text-align: center;padding: 14px 16px;text-decoration: none;}
+/* Change the link color to #111 (black) on hover */
+li a:hover {background-color: #000;}
