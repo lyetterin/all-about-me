@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="galstyle.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<div class="header">
+	<h1>ALL OF WE</h1>
+	<div class="navbar-fixed-top"> 
+		<nav>
+    	<ul>
+            <li style="float:center">
+            <li> <a href="index.html">HOME</a></li>
+	    <li> <a href="about.html">ABOUT</a></li>
+      <li> <a href="history.html">HISTORY</a></li>
+	    <li> <a href="omv.html">ONE MORE VOICE</a></li>
+	    <li> <a href="timeline.html">TIMELINE</a></li>
+      <li> <a class="active" href="gallery.html">GALLERY</a></li>
+	    <li> <a href="buzzfeed.html">COMMUNITY</a></li>
+	    <li style="float:right"><a href="bio.html">RECOGNITION</a></li>
+         </ul>
+		</nav>
+      </div>
+      </div>
+  </head>
+  
+  <div class="row">
+  <div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+	<img src="trumpet.jpg" alt="Snow" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+	</div>
+	</div>
+	</div>
+	</div>
+  <div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+    	<img src="trumpet.jpg" alt="Forest" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+		<a href="https://www.youtube.com/">Link Test</a>
+	</div>
+	</div>
+	</div>
+	</div>
+  <div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+    	<img src="trumpet.jpg" alt="Mountains" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+	</div>
+	</div>
+	</div>
+	</div>
+<div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+    	<img src="trumpet.jpg" alt="Forest" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+	</div>
+	</div>
+	</div>
+	</div>
+</div>
+  
+  <div class="row">
+  <div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+	<img src="trumpet.jpg" alt="Snow" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+	</div>
+	</div>
+	</div>
+	</div>
+  <div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+    	<img src="trumpet.jpg" alt="Forest" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+	</div>
+	</div>
+	</div>
+	</div>
+  <div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+    	<img src="trumpet.jpg" alt="Mountains" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+	</div>
+	</div>
+	</div>
+	</div>
+<div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+    	<img src="trumpet.jpg" alt="Forest" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+	</div>
+	</div>
+	</div>
+	</div>
+</div> 
+
+ <div class="row">
+  <div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+	<img src="trumpet.jpg" alt="Snow" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+	</div>
+	</div>
+	</div>
+	</div>
+  <div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+    	<img src="trumpet.jpg" alt="Forest" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+	</div>
+	</div>
+	</div>
+	</div>
+  <div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+    	<img src="trumpet.jpg" alt="Mountains" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+	</div>
+	</div>
+	</div>
+	</div>
+<div class="column">
+	<div class="flip-box">
+	<div class="flip-box-inner">
+	<div class="flip-box-front">
+    	<img src="trumpet.jpg" alt="Forest" style="width:100%">
+  </div>
+	<div class="flip-box-back">
+		<h4>TEST TITLE</h4>
+		<p>This will be a paragraph</p>
+	</div>
+	</div>
+	</div>
+	</div>
+</div>
+	
+  </body>
+		<div class="footer"></div>
+</html>
